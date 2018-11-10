@@ -1,0 +1,16 @@
+@import "../node_modules/react-vis/dist/styles/treemap.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

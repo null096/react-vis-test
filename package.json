@@ -1,11 +1,13 @@
 {
-  "name": "three",
+  "name": "react-vis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "node-sass": "^4.10.0",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-vis": "^1.11.4"
   },
   "scripts": {
     "start": "react-scripts start",
