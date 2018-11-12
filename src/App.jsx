@@ -35,7 +35,7 @@ class App extends Component {
     this.ws.close();
   }
 
-  onComponentUnmount() {
+  componentWillUnmount() {
     this.disconnect();
   }
 
